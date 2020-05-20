@@ -1,0 +1,75 @@
+  
+[
+    {
+      "id": 1,
+      "name": "Rick",
+      "clicked": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4-rl3Td5Myt4Nb6OYZ4DbrAEXXDNwVewOPoSp1PR7GjO2QRdg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Morty",
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/c/c7/Capture.PNG/revision/latest/top-crop/width/360/height/360?cb=20170911225322"
+    },
+    {
+      "id": 3,
+      "name": "Evil Morty",
+      "clicked": false,
+      "image": "https://i.pinimg.com/originals/43/ec/2e/43ec2e183551b25b8382433100c93f7f.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jerry",
+      "clicked": false,
+      "image": "https://media.rbl.ms/image?u=%2Ffiles%2F2015%2F12%2F21%2F6358628102570526521827105696_Rick%2520Smith.png&ho=http%3A%2F%2Fcdn1.theodysseyonline.com&s=466&h=cd22daedec741080ae82177c48150386341743f53de1d100e5e89a51639db245&size=980x&c=3282163342"
+    },
+    {
+      "id": 5,
+      "name": "Beth",
+      "clicked": false,
+      "image": "https://next-cdn.swap-bot.com/images/swaps/210822/swap.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Summer",
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest/top-crop/width/360/height/360?cb=20160919183158"
+    },
+    {
+      "id": 7,
+      "name": "Birdperson",
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/jemboy-discord/images/b/b1/Birdperson.png/revision/latest/top-crop/width/220/height/220?cb=20171125001039"
+    },
+    {
+      "id": 8,
+      "name": "Mr Poopybutthole",
+      "clicked": false,
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-and-morty-poopybuthole-1574420029.jpg?crop=0.704xw:1.00xh;0,0&resize=480:*"
+    },
+    {
+      "id": 9,
+      "name": "Abradolf Lincler",
+      "clicked": false,
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=2000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F07%2Fabradolf-lincler-2000.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pickle Rick",
+      "clicked": false,
+      "image": "https://scene7.zumiez.com/is/image/zumiez/pdp_hero/Primitive-x-Rick-and-Morty-Pickle-Rick-Sticker-_309256.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mr Meeseeks",
+      "clicked": false,
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/6/6c/MeeseeksHQ.png/revision/latest/top-crop/width/360/height/360?cb=20150930232412"
+    },
+    {
+      "id": 12,
+      "name": "Cromulons",
+      "clicked": false,
+      "image": "https://i.pinimg.com/originals/a2/6b/86/a26b86ad229039403c55feec31a3ef84.jpg"
+    }
+  ]
